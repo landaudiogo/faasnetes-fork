@@ -1244,6 +1244,32 @@ entries:
     - https://github.com/openfaas/faas-netes
     type: application
     urls:
+    - https://raw.githubusercontent.com/landaudiogo/faasnetes-fork/changes/docs/openfaas-14.2.9.tgz
+    version: 14.2.9
+  - apiVersion: v2
+    created: "2024-01-11T11:14:06.745226547Z"
+    description: OpenFaaS - Serverless Functions Made Simple
+    digest: 24ee209cf6bd32045593d624a14c5b9c10d3251820a256a23c66b27e73ebb34d
+    home: https://www.openfaas.com
+    icon: https://raw.githubusercontent.com/openfaas/media/master/OpenFaaS_logo_stacked_opaque.png
+    keywords:
+    - serverless
+    - functions
+    - platform
+    - faas
+    maintainers:
+    - email: alex@openfaas.com
+      name: alexellis
+    - email: han@openfaas.com
+      name: welteki
+    - email: roesler.lucas@gmail.com
+      name: lucasroesler
+    name: openfaas
+    sources:
+    - https://github.com/openfaas/faas
+    - https://github.com/openfaas/faas-netes
+    type: application
+    urls:
     - https://openfaas.github.io/faas-netes/openfaas-14.2.8.tgz
     version: 14.2.8
   - apiVersion: v2
